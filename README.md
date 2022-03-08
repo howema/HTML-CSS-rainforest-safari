@@ -1,4 +1,4 @@
-# __Welcome to the Rainforest Safari__
+# __Welcome to Rainforest Safari__
 
 ### _Where design is an adventure._
 
