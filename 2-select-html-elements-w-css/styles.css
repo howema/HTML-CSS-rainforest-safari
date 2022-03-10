@@ -2,12 +2,18 @@ body {
     font-family: sans-serif;
 }
 
-h2 {
+h2,
+h3,
+ol strong {
     font-weight: normal;
 }
 
+h2 {
+  color: maroon;
+}
+
 h3 {
-    font-weight: normal;
+  color: navy
 }
 
 em {
