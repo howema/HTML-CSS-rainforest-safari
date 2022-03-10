@@ -3,7 +3,7 @@
 
 ### _"How To Apply CSS Styles to HTML with Cascade and Specificity"_
 
-This subdirectory of Philip Zastrow's [How to Style HTML with CSS tutorial series](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) on DigitalOcean, represents his first tutorial installment, "How To Apply CSS Styles to HTML with Cascade and Specificity"(https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
+This subdirectory of Philip Zastrow's [How to Style HTML with CSS tutorial series](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) on DigitalOcean, represents his first tutorial installment, ["How To Apply CSS Styles to HTML with Cascade and Specificity"](https://www.digitalocean.com/community/tutorials/how-to-apply-css-styles-to-html-with-cascade-and-specificity)
 
 ### _"Please describe this tutorial to me using strange analogies"_
 
