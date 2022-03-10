@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+em {
+    background-color: yellow;
+}
+
+strong {
+    color: red;
+}
+
+p strong {
+    color: coral;
+}
+
+h3 strong {
+    color: blue;
+}
+
+ul strong {
+    color: dodgerblue;
+}
+
+ol strong {
+    color: green;
+}
