@@ -1,0 +1,17 @@
+body {
+	font-family: 'Averia Serif Libre', serif;
+}
+.excerpt {
+	margin: 20px auto;
+	padding: 20px;
+	border: 1px solid black;
+	max-width: 480px;
+	box-sizing: border-box;
+}
+.title {
+	font-size: 20px;
+	margin: 0 0 10px;
+}
+.quote {
+    margin: 0;
+}

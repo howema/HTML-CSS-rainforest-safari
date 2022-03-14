@@ -19,6 +19,8 @@ In socail psychology, there is a principle that basically boils down to "What is
 
 Take it from someone with the most adorably crooked nose; what is beautiful is also good--CSS demands goodness with it's implicitly good design standards.
 
+P.S. - Note that the two features where `margin` differs from `padding` is that margin accepts negative values, and it can also use `auto` for centering content.
+
 
 
  ## Built With
