@@ -3,7 +3,7 @@
 
 ### _"How To Select HTML Elements to Style with CSS"_
 
-This subdirectory of Philip Zastrow's [How to Style HTML with CSS tutorial series](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) on DigitalOcean, represents his first tutorial installment, ["How To Select HTML Elements to Style with CSS"](https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-to-style-with-css)
+This subdirectory of Philip Zastrow's [How to Style HTML with CSS tutorial series](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) on DigitalOcean, represents his second tutorial installment, ["How To Select HTML Elements to Style with CSS"](https://www.digitalocean.com/community/tutorials/how-to-select-html-elements-to-style-with-css)
 
 ### _"Talk summary to me"_
 
