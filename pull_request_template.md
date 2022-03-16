@@ -1,13 +1,13 @@
 ### Description 🎨
 <!-- Add description of work done here -->
 
-### Spec
+### Spec :eyeglasses:
 
 Designs: [Designs](DESIGN_URL)
 
 See Story: [ISSUE_NUMBER](ISSUE_URL)
 
-### Validation :large_green_square:
+### Validation :ballot_box_with_check:
 <!-- Delete anything irrelevant to this PR -->
 
 * [ ] This PR has visual elements, so it was reviewed by a designer.
