@@ -1,17 +1,41 @@
+:root{
+	font-size: 20px;
+}
 body {
 	font-family: 'Averia Serif Libre', serif;
 }
 .excerpt {
-	margin: 20px auto;
-	padding: 20px;
-	border: 1px solid black;
-	max-width: 480px;
+	margin: 1.25rem auto;
+	padding: 1.25rem;
+	border: 0.0625rem solid black;
+	width: 80%;
+	max-width: 30rem;
 	box-sizing: border-box;
 }
 .title {
-	font-size: 20px;
-	margin: 0 0 10px;
+	font-size: 1.25rem; /* target size: 20px */
+	margin: 0 0 0.5em; /* target size: 10px */
 }
 .quote {
     margin: 0;
 }
+.quote-text {
+	font-size: 1.5rem; /* target size: 24px */
+	margin: 0.625rem 0; /* target size: 24px */
+}
+
+.large {
+	font-size: 1.5em; /* target size: 32px */
+}
+
+.small {
+	font-size: 0.75em; /* target size: 20px */
+}
+.citation {
+	border-top: 0.0625rem solid #ccc;
+	margin-top: 1.25rem;
+	padding-top: 1.25rem;
+	color: #555;
+	font-size: 0.875rem;
+}
+
