@@ -1,9 +1,0 @@
-div {
-	border: 1px solid red;
-    padding: 30px 60px;
-    width: 250px;
-    margin: 20px auto 60px;
-}
-* {
-	box-sizing: border-box;
-}
