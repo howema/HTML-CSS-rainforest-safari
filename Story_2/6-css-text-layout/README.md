@@ -11,7 +11,6 @@ In Chapter 6 of our design adventure, we learn the crucial art of _**text layout
 
 Clarissa Peterson's _ideal line length_ principle of using only 45-75 characters, was pretty surprising for me. It's not something you normally consciously think about, and yet it's always there. Well, it better be. I now know that it offers balance between 1. preventing eye fatigue (from constantly moving between short lines), and 2. prevents the user from losing track of their current (too long) of a line.
 
-
 _**Notes of Interest**_
 
 Note- Format capitalization with `text-transform` (3 options).
@@ -44,21 +43,12 @@ In this case specifically, there will be more space between `h3` elements and `p
 
 --------------------
 
+_**Review**_
 
-_**Remember**_
-<<<<<<< HEAD
-<<<<<<< HEAD
-`em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`)
-`em` => _relative_ to `font-size` of its element / parent
-* example: if the **parent `font-size` is 18px, 1em = 18px**
-=======
-`em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`) 
->>>>>>> 963e52b (🎨 feat: add tutorials 6 + 7)
-=======
-`em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`)
-`em` => _relative_ to `font-size` of its element / parent
-* example: if the **parent `font-size` is 18px, 1em = 18px**
->>>>>>> 5a28d87 (📝 docs: clarify em relational nature)
+`em`
+* _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`)
+* _relative_ to `font-size` of its parent
+* i.e. if the parent `font-size` is 18px, **1em = 18px**
 `em` => 1em = default `font-size` of document (usually 16px)
 
  ## Built With
