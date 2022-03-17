@@ -1,5 +1,6 @@
 ### Description 🎨
-<!-- Add description of work done here -->
+
+:t-rex: Info
 
 ### Spec :eyeglasses:
 
@@ -7,7 +8,7 @@ Designs: [Designs](DESIGN_URL)
 
 See Story: [ISSUE_NUMBER](ISSUE_URL)
 
-### Validation :ballot_box_with_check:
+### Validation :thinking_face:
 <!-- Delete anything irrelevant to this PR -->
 
 * [ ] This PR has visual elements, so it was reviewed by a designer.
@@ -39,26 +40,3 @@ This is a template to provide copy/paste-able changelog notes. Please delete irr
 #### Fixes 🐛
 
 * [ ] [Fix _____](link to commit/pr)
-
-
----
-
-<!-- consider using emojis to spice up your life/commit messages -->
-<!-- :fire: refactor: removed unused container elements -->
-
-🎨 :art: when improving the format/structure of the code
-🐎 :racehorse: when improving performance
-🚱 :non-potable_water: when plugging memory leaks
-📝 :memo: when writing docs
-🐧 :penguin: when fixing something on Linux
-🍎 :apple: when fixing something on macOS
-🏁 :checkered_flag: when fixing something on Windows
-🐛 :bug: when fixing a bug
-🔥 :fire: when removing code or files
-💚 :green_heart: when fixing the CI build
-✅ :white_check_mark: when adding tests
-🔒 :lock: when dealing with security
-⬆️ :arrow_up: when upgrading dependencies
-⬇️ :arrow_down: when downgrading dependencies
-👕 :shirt: when removing linter warnings
-
