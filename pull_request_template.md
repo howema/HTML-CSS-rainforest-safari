@@ -1,6 +1,6 @@
 ### Description 🎨
 
-:t-rex: Info
+Info
 
 ### Spec :eyeglasses:
 
