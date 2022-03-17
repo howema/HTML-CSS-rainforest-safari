@@ -47,12 +47,18 @@ In this case specifically, there will be more space between `h3` elements and `p
 
 _**Remember**_
 <<<<<<< HEAD
+<<<<<<< HEAD
 `em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`)
 `em` => _relative_ to `font-size` of its element / parent
 * example: if the **parent `font-size` is 18px, 1em = 18px**
 =======
 `em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`) 
 >>>>>>> 963e52b (🎨 feat: add tutorials 6 + 7)
+=======
+`em` => _proportional_ to `font-size` ==> (here we see it used within `styles.css` for `line-spacing`)
+`em` => _relative_ to `font-size` of its element / parent
+* example: if the **parent `font-size` is 18px, 1em = 18px**
+>>>>>>> 5a28d87 (📝 docs: clarify em relational nature)
 `em` => 1em = default `font-size` of document (usually 16px)
 
  ## Built With
