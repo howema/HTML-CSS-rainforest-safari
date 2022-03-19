@@ -8,18 +8,14 @@ Designs: [Designs](DESIGN_URL)
 
 See Story: [ISSUE_NUMBER](ISSUE_URL)
 
-### Validation :thinking_face:
-<!-- Delete anything irrelevant to this PR -->
+### Validation ✅
 
 * [ ] This PR has visual elements, so it was reviewed by a designer.
-* [ ] This PR has code changes, and our linters still pass.
 * [ ] This PR affects production code, so it was browser tested (see below).
-* [ ] This PR has new code, so new tests were added or updated, and they pass.
-* [ ] This PR has new SCSS functions, mixins, or variables, so [Sass Tests](https://seesparkbox.com/foundry/how_and_why_we_unit_test_our_sass) were added or updated, and they pass.
 * [ ] This PR has copy changes, so copy was proofread and approved.
 * [ ] The content of this PR requires documentation, so we added a detailed description of the component's purpose, requirements, quirks, and instructions for use by designers and developers. Along with accessibility information if pertinent.
 
-#### To Validate ✅
+#### To Validate ✅✅
 
 1. Make sure all PR Checks have passed (GitHub Actions, CircleCI, Code Climate, Snyk, etc).
 2. Pull down all related branches.
