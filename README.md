@@ -2,12 +2,11 @@
 
 <br>
 
-<h1 style="border-bottom: none;">
-<p style="text-align: center;"><b>Welcome to Rainforest Safari</b></p>
-<p style="text-align: center; font-size: 20px;"><i>Where Design is an Adventure</i></p>
+# <b>Welcome to Rainforest Safari<b>
+### _Where Design is an Adventure_
 </h1>
 
---- 
+
 
 Documenting my epic journey through [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) a twenty-part [_DigitalOcean_](https://www.digitalocean.com/) tutorial series by the one-and-only [Philip Zastrow](https://zastrow.co/).
 
