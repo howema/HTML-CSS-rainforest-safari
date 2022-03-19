@@ -2,7 +2,7 @@
 
 <br>
 
-# <b>Welcome to Rainforest Safari<b>
+# <b><u>Welcome to Rainforest Safari</u><b>
 ## _Where Design is an Adventure_
 
 
