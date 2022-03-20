@@ -1,11 +1,11 @@
 
-# <b><u>Welcome to Rainforest Safari</u><b>
-### _Where Design is an Adventure_
+# <b><u>Rainforest Safari: _Where Design is an Adventure_</u><b>
 
-Documenting my epic journey through [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) a twenty-part [_DigitalOcean_](https://www.digitalocean.com/) tutorial series by the one-and-only [Philip Zastrow](https://zastrow.co/).
+Welcome! Here, I am documenting my epic journey through [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) a twenty-part [_DigitalOcean_](https://www.digitalocean.com/) tutorial series by the one-and-only [Philip Zastrow](https://zastrow.co/).
 
+<br>
 
-## TABLE OF CONTENTS
+## Table of Contents
 
 [Chapter 1: "How To Apply CSS Styles to HTML with Cascade and Specificity"](https://github.com/howema/html-css-rainforest-safari/tree/main/Story_1/1-cascade-and-specificity#readme) [_**--she live**_](https://mhowe.dev/html-css-rainforest-safari/Story_1/1-cascade-and-specificity/index.html)
 
@@ -35,7 +35,7 @@ Documenting my epic journey through [_"How to Style HTML with CSS,"_](https://ww
 
 <br>
 
-### BUILT WITH
+## BUILT WITH
 
 - HTML
 - CSS
