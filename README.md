@@ -1,9 +1,9 @@
+# <b><u>Welcome to Rainforest Safari</u><b>
+### _Where Design is an Adventure_
 
-# <b><u>Rainforest Safari: _Where Design is an Adventure_</u><b>
+Here, I am documenting my epic journey through [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) a twenty-part [_DigitalOcean_](https://www.digitalocean.com/) tutorial series by the one-and-only [Philip Zastrow](https://zastrow.co/).
 
-Welcome! Here, I am documenting my epic journey through [_"How to Style HTML with CSS,"_](https://www.digitalocean.com/community/tutorial_series/how-to-style-html-with-css) a twenty-part [_DigitalOcean_](https://www.digitalocean.com/) tutorial series by the one-and-only [Philip Zastrow](https://zastrow.co/).
 
-<br>
 
 ## Table of Contents
 
@@ -32,6 +32,9 @@ Welcome! Here, I am documenting my epic journey through [_"How to Style HTML wit
 
 [Chapter 9: "How To Select HTML Elements Using ID, Class, and Attribute Selectors in CSS"](https://github.com/howema/html-css-rainforest-safari/tree/main/Story_2/9-attribute-selectors-css#readme)
 [_**--she live**_](https://mhowe.dev/html-css-rainforest-safari/Story_2/9-attribute-selectors-css/index.html)
+
+[Chapter 10: "How To Style a Table with CSS"](https://www.digitalocean.com/community/tutorials/how-to-style-a-table-with-css)
+[_**--she live**_](https://mhowe.dev/html-css-rainforest-safari/Story_2/10-style-table-css/index.html)
 
 <br>
 
