@@ -31,11 +31,4 @@ body {
 .small {
 	font-size: 0.75em; /* target size: 20px */
 }
-.citation {
-	border-top: 0.0625rem solid #ccc;
-	margin-top: 1.25rem;
-	padding-top: 1.25rem;
-	color: #555;
-	font-size: 0.875rem;
-}
 

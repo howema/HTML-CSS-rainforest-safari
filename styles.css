@@ -1,0 +1,13 @@
+body {
+	font-family: 'Averia Serif Libre', serif;
+}
+
+.toc {
+	margin: auto;
+	padding: 1.25rem;
+	border: 0.0625rem solid black;
+	width: 80%;
+	max-width: 30rem;
+	box-sizing: border-box;
+}
+/*  */
