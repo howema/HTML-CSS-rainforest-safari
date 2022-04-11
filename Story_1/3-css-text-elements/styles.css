@@ -45,5 +45,26 @@ h6 {
   color: deepskyblue;
 }
 
+.footer-back {
+ justify-content: left;
+ border: none;
+ padding: 1rem;
+}
+
+.footer-details {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+footer {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 1rem;
+    font-style: italic;
+}
+
 
 

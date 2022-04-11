@@ -55,3 +55,24 @@ tbody th {
 tbody tr:nth-child(even) th {
   background-color: #25c;
 }
+
+.footer-back {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+.footer-details {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+footer {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 1rem;
+    font-style: italic;
+}

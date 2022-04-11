@@ -1,5 +1,5 @@
 
-# __Rainforest Safari: Chapter 12 __
+# __Rainforest Safari: Chapter 12__
 
 ### _"How To Apply Background Styles to HTML Elements with CSS"_
 

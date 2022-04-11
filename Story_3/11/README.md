@@ -1,5 +1,5 @@
 
-# __Rainforest Safari: Chapter 11 __
+# __Rainforest Safari: Chapter 11__
 
 ### _"How To Use Float and Columns to Lay Out Content with CSS"_
 

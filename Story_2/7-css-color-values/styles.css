@@ -27,11 +27,32 @@ hr {
 	border: 2px solid hsl(20, 100%, 35%);
 	background-color: hsl(20, 100%, 50%);
 }
-footer {
+.fauxfooter {
 	margin-top: 2rem;
 	font-size: 0.875rem;
 	color: hsl(200, 100%, 45%);
 }
-footer a {
+.fauxfooter a {
 	color: inherit;
+}
+
+.footer-back {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+.footer-details {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+footer {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 1rem;
+    font-style: italic;
 }

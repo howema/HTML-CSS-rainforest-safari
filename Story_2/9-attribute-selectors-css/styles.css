@@ -58,3 +58,26 @@ abbr[title] {
 [href^="https://"]::before {
   content: '\1F512';
 }
+
+.footer-back {
+justify-content: right;
+ padding: 1rem;
+ position: absolute;
+ left: 20%;}
+
+.footer-details {
+  justify-content: right;
+  border: none;
+  padding: 1rem;
+  position: absolute;
+  left: 70%;
+}
+
+footer {
+  color: black;
+  display: flex;
+  max-width: 90%;
+  padding: 1rem;
+  position: relative;
+  font-style: italic;
+}

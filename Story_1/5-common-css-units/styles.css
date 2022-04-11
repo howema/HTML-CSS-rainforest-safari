@@ -32,3 +32,24 @@ body {
 	font-size: 0.75em; /* target size: 20px */
 }
 
+.footer-back {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+.footer-details {
+ align-self: right;
+ border: none;
+ padding: 1rem;
+}
+
+footer {
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    padding: 1rem;
+    font-style: italic;
+}
+

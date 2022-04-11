@@ -1,13 +1,39 @@
 body {
 	font-family: 'Averia Serif Libre', serif;
+	display: flex;
+	margin: 5rem auto;
+	max-width: 65%;
 }
 
 .toc {
 	margin: auto;
-	padding: 1.25rem;
+	padding: 1.5rem 0.5rem;
 	border: 0.0625rem solid black;
-	width: 80%;
-	max-width: 30rem;
-	box-sizing: border-box;
+	display: block;
+	text-decoration: none;}
+
+.title {
+	line-height: 3rem 2rem 0rem 2rem;
+	margin: auto;
+	font-size: 2rem;
+	padding: 0 0.5rem;
 }
-/*  */
+.toc__subtitle {
+	margin: 0;
+	padding: 0 1rem;
+}
+
+a:hover {
+	color: deeppink;
+}
+
+.toc__description {
+	margin: 0.5rem auto 3rem auto;
+	padding: 0 1rem;
+}
+
+p {
+	display: block;
+	padding: 0.25rem 1rem;
+	line-height: 1.25rem;
+}
