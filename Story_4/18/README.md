@@ -6,7 +6,7 @@ This subdirectory of Philip Zastrow's [How to Style HTML with CSS tutorial serie
 
 ### _"Summary"_
 
-In this tutorial, we use 
+In this tutorial, I worked with `opacity`, `pointer-events`, and `transition` to manipulate the appearance and behavior of modals. In addition, `transparent` was used on a button to display how it can be used in place of an animation to give a hover + gradient effect.
 
 
 
