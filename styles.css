@@ -11,13 +11,18 @@ body {
 	border: 0.0625rem solid black;
 	display: block;
 	text-decoration: none;}
-
+	
 .title {
 	line-height: 3rem 2rem 0rem 2rem;
 	margin: auto;
 	font-size: 2rem;
-	padding: 0 0.5rem;
+	padding: 0 0.5rem;	
 }
+
+.link-title {
+	text-decoration: none;
+}
+
 .toc__subtitle {
 	margin: 0;
 	padding: 0 1rem;
